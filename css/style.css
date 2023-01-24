@@ -17,3 +17,8 @@ border-radius: 5px;
     color:#E7E7E7!important;
 
 }
+.special-card{
+  background-image: linear-gradient(#F4F4F4,#fafafa);
+  border:1px solid rgb(233, 226, 226);
+/* background: linear-gradient(#e66465, #9198e5); */
+}
